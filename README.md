@@ -1,4 +1,4 @@
-<img  src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36i80aifmnplhnghbt1w.gif" alt="COding">
+g width="1000" height="420" src="https://chools.in/wp-content/uploads/0274207612d515f49012c87803a9e631.gif" alt="Coding">
 <h1 align="center">Hi 👋, I'm Muhammed Hafeed</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
  <img align="right" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt="Coding">
