@@ -1,4 +1,4 @@
- <img width="1000"  src='https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif' alt="Coding">
+ <img width="1000"  height="500" src='https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif' alt="Coding">
 <h1 align="center">Hi 👋, I'm Muhammed Hafeed</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
  <img align="right" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' alt="Coding">
