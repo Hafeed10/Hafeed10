@@ -14,6 +14,28 @@
 <img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRARdaYBQuaN1qZ6Zj6mVpUU-0MRU2ddFXpEw&s"  />
 
 ###
+## 📊 GitHub Stats
+
+<div align="center">
+
+### **Contributions & Streaks**
+| Total Contributions | Current Streak | Longest Streak |
+|---------------------|----------------|-----------------|
+| **4,843**           | **6 days**     | **46 days**     |
+| *Oct 23, 2019 - Present* | *Jul 21 - Jul 26* | *Nov 12, 2023 - Dec 27, 2023* |
+
+---
+
+### **Alan 🍉's GitHub Stats**
+- ⭐ **Total Stars Earned:** 116  
+- 📌 **Total Commits:** 1.4k  
+- 🔀 **Total PRs:** 23  
+- ❗ **Total Issues:** 49  
+- 🗓️ **Contributed to (last year):** 3  
+
+---
+
+### **Most Used Languages**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
