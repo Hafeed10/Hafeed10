@@ -37,12 +37,10 @@
 ### 📊 GitHub Stats & Streak
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Hafeed10&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
-
-<p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&langs_count=8&theme=tokyonight" alt="top langs" />
 </p>
+
+
 
 ---
 
