@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Code-Python%20%7C%20JS%20%7C%20Django%20%7C%20React-8A2BE2" />
 </p>
 
----
+
 
 ### 🚀 About Me
 - 🔭 I’m building modern **Django + React** apps (REST + clean UI)
@@ -23,14 +23,14 @@
 - 🧩 I enjoy **API design, auth, and performance tuning**
 - ⚡ Fun: I love shipping pixel-perfect UIs with Tailwind & Vite
 
----
+
 
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,py,c,cpp,bootstrap,django,git,github,gitlab,jquery,postgres,sass,sqlite,postman,tailwind,vercel,vite" />
 </p>
 
----
+
 
 
 
@@ -42,14 +42,14 @@
 
 
 
----
+
 
 ### 🗓️ Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafeed10&theme=tokyo-night" alt="activity graph" />
 </p>
 
----
+
 
 ### 🔗 Connect With Me
 <p align="center">
@@ -59,16 +59,7 @@
   <a href="https://discordapp.com/users/your-id" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" /></a>
 </p>
 
----
 
-### 🐍 Snake Contribution Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hafeed10/Hafeed10/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hafeed10/Hafeed10/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Hafeed10/Hafeed10/output/github-snake.svg" />
-</picture>
-
----
 
 ### 📦 Quick Starters (Pinned)
 - 🔹 **Django REST API Boilerplate** — JWT auth, pagination, filters  
@@ -77,7 +68,7 @@
 
 > _Tip:_ Pin these repos on your profile for instant visibility.
 
----
+
 
 ### ⚙️ Setup Notes (Optional but Recommended)
 - For the **snake animation**, enable the workflow in your repo:
@@ -85,7 +76,7 @@
   2. Add a GitHub Action using [Platane/snk] to generate `output/github-snake.svg`
 - If any widgets fail due to rate limits, refresh later — they’re hosted services.
 
----
+
 
 <p align="center">
   <i>⭐ If you like something here, consider starring a repo!</i>
