@@ -1,199 +1,233 @@
-# Hi 👋, I'm Muhammed Hafeed P
+# <div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Muhammed Hafeed P GitHub Banner" src="./dark.svg" width="100%">
-  </picture>
-</p>
+# Hi 👋 I'm **Muhammed Hafeed P**
 
-<p align="center">
-  <a href="https://github.com/Hafeed10">
-    <img src="https://komarev.com/ghpvc/?username=Hafeed10&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views">
-  </a>
-  <a href="https://github.com/Hafeed10?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hafeed10?label=Followers&style=flat-square&color=7C3AED" alt="Followers">
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kerala,%20India-0EA5E9?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-10B981?style=flat-square" alt="Open to Collaboration">
-</p>
+### Full Stack Developer • Open Source Enthusiast • UI Engineer
 
----
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** who enjoys building scalable web applications, clean APIs, and modern user interfaces.
-
-* 🔭 Building production-ready **Django + React** applications
-* 🌱 Currently learning **Next.js**, **Docker**, **AWS**, and **CI/CD**
-* 💡 Interested in **AI**, **Open Source**, and **Developer Experience**
-* ⚡ Passionate about performance, clean architecture, and elegant UI design
-* 🎯 Goal: Build software that people genuinely enjoy using
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Muhammed Hafeed Banner" width="100%">
+</picture>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Hafeed10\&label=Profile%20Views\&color=7C3AED\&style=flat-square)](https://github.com/Hafeed10)
+[![Followers](https://img.shields.io/github/followers/Hafeed10?style=flat-square\&color=7C3AED)](https://github.com/Hafeed10?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Hafeed10?affiliations=OWNER\&style=flat-square\&color=06B6D4)](https://github.com/Hafeed10)
+
 </p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
-</p>
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman,vercel,figma,vscode" />
-</p>
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 💫 About Me
 
-| Project                    | Description                            | Stack            |
-| -------------------------- | -------------------------------------- | ---------------- |
-| 🚀 Django REST Boilerplate | JWT Authentication, API Best Practices | Django REST      |
-| 🌐 Portfolio Website       | Modern responsive portfolio            | React + Tailwind |
-| 📦 Full Stack Dashboard    | Admin dashboard with authentication    | React + Django   |
-| 🤖 AI Projects             | Machine Learning & AI experiments      | Python           |
+```yaml
+Name: Muhammed Hafeed P
 
-> ⭐ Pin your best repositories to match this section.
+Location: Kerala, India 🇮🇳
 
----
+Role: Full Stack Developer
 
-# 📈 GitHub Analytics
+Focus:
+  - Django
+  - React
+  - REST APIs
+  - UI/UX
+  - Performance
 
-<p align="center">
+Currently Learning:
+  - Next.js
+  - Docker
+  - AWS
+  - GitHub Actions
+  - AI Integrations
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Hafeed10&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafeed10&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hafeed10&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-* Next.js App Router
-* Docker & Kubernetes
-* AWS Cloud
-* GitHub Actions
-* AI Integrations
-* System Design
-
----
-
-## 💻 Development Workflow
-
-```text
-Idea
-  │
-  ▼
-Design
-  │
-  ▼
-Frontend
-  │
-  ▼
-Backend API
-  │
-  ▼
-Database
-  │
-  ▼
-Testing
-  │
-  ▼
-Deployment
+Interests:
+  - Open Source
+  - Modern Web Development
+  - System Design
+  - Clean Architecture
 ```
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Tech Stack
+
+### Frontend
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,sass"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,express"/>
+
+</p>
+
+### Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"/>
+
+</p>
+
+### DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,postman,vercel,figma,vscode"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project                    | Description                 | Tech             |
+| -------------------------- | --------------------------- | ---------------- |
+| 🚀 Django REST Boilerplate | Authentication, JWT, APIs   | Django REST      |
+| 📦 Full Stack Dashboard    | Admin Dashboard             | React + Django   |
+| 🎨 Portfolio Website       | Responsive Modern Portfolio | React + Tailwind |
+| 🤖 AI Playground           | AI Experiments              | Python           |
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hafeed10&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafeed10&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hafeed10&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+* 🚀 Building scalable Full Stack applications
+* ⚡ Writing clean, maintainable code
+* 🌐 Creating beautiful user interfaces
+* ☁️ Learning Cloud & DevOps
+* 🤝 Contributing to Open Source
+
+---
+
+# 💻 Development Philosophy
+
+> **Build with purpose.**
+>
+> Write code that is readable, scalable, maintainable, and enjoyable to work with.
+
+---
+
+# 🛠 Workflow
+
+```text
+Research
+   │
+   ▼
+Design
+   │
+   ▼
+Development
+   │
+   ▼
+Testing
+   │
+   ▼
+Deployment
+   │
+   ▼
+Maintenance
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://github.com/Hafeed10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://twitter.com/your-twitter">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge">
 </a>
 
-</p>
+</div>
 
 ---
 
-## ⚡ Fun Facts
+# ☕ Fun Facts
 
-* 🎨 Love creating beautiful UI/UX
-* 🚀 Enjoy building SaaS products
-* 🤝 Open Source Contributor
-* ☕ Coffee + Music + Coding
+* 🎯 I love solving real-world problems with code.
+* 🎨 I'm passionate about modern UI/UX.
+* 🌍 I enjoy collaborating on open-source projects.
+* 🚀 Always learning new technologies.
+* 💜 Coffee, music, and coding are my perfect combination.
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ⭐ Thanks for visiting!
+## ⭐ Thanks for visiting!
 
-*"Code with passion. Build with purpose."*
+*"Code. Learn. Build. Repeat."*
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
