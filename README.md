@@ -1,149 +1,172 @@
-<!-- Animated Power Profile README for Hafeed10 -->
+<!-- New Design: "Neon Dev Card" README for Hafeed10 -->
 
+<!-- ============ HEADER BANNER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Muhammed%20Hafeed%20P&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%2B%20JavaScript&descSize=18&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+</p>
+
+<!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
   <a href="https://github.com/Hafeed10">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammed+Hafeed+P;Full+Stack+Developer+%7C+Python+%2B+JavaScript;Django+%7C+React+%7C+PostgreSQL;Clean+Code.+Fast+APIs.+Modern+UI"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=24C6DC&center=true&vCenter=true&width=700&lines=Django+%7C+React+%7C+PostgreSQL;Clean+Code.+Fast+APIs.+Modern+UI;Building+things+that+scale+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">
-  🚀 Full-Stack Developer from India 🇮🇳
-</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafeed10&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack-5b9bd5" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JavaScript%20%7C%20Django%20%7C%20React-8A2BE2" alt="Tech Stack" />
+  <img src="https://komarev.com/ghpvc/?username=Hafeed10&label=Profile%20Views&color=24c6dc&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hafeed10?style=for-the-badge&logo=github&color=302b63" alt="Followers" />
+  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=for-the-badge" alt="India" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🪪 Developer Card
 
-* 🔭 Building modern **Django + React** applications with REST APIs and clean, responsive UIs
-* 🌱 Currently exploring **Next.js, cloud deployments, and CI/CD**
-* 🧩 Interested in **API design, authentication, database optimization, and performance**
-* ⚡ Love creating pixel-perfect interfaces with **Tailwind CSS + Vite**
-* 🛠️ Focused on writing **clean, maintainable, and scalable code**
+<table align="center">
+  <tr>
+    <td>🔭 <b>Building</b></td>
+    <td>Django + React apps with REST APIs and responsive UIs</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Exploring</b></td>
+    <td>Next.js, cloud deployments, CI/CD</td>
+  </tr>
+  <tr>
+    <td>🧩 <b>Interested in</b></td>
+    <td>API design, authentication, database optimization, performance</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Love</b></td>
+    <td>Pixel-perfect interfaces with Tailwind CSS + Vite</td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Focus</b></td>
+    <td>Clean, maintainable, scalable code</td>
+  </tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Arsenal
 
+<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=js,react,html,css,py,c,cpp,bootstrap,django,git,github,gitlab,jquery,postgres,sass,sqlite,postman,tailwind,vercel,vite"
-    alt="Tech Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=py,js,c,cpp,html,css&theme=dark" alt="Languages" />
+</p>
+
+<p align="center"><b>Frameworks & Libraries</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,tailwind,bootstrap,jquery,sass,vite&theme=dark" alt="Frameworks" />
+</p>
+
+<p align="center"><b>Databases & Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,gitlab,postman,vercel&theme=dark" alt="Tools" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    alt="Hafeed10's GitHub Stats"
-  />
-
-<img
- height="165"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&langs_count=8&theme=tokyonight"
- alt="Top Languages"
-/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hafeed10&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hafeed10&theme=tokyo-night"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafeed10&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Django REST API Boilerplate
-
-JWT authentication, pagination, filtering, permissions, and production-ready API patterns.
-
-### 🔹 React + Vite + Tailwind Starter
-
-A modern responsive frontend starter featuring reusable components and dark mode.
-
-### 🔹 DRF + React Media Uploads
-
-File and image upload handling with previews, validation, and API integration.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚙️ Django REST API Boilerplate</h3>
+      <p>JWT authentication, pagination, filtering, permissions, and production-ready API patterns.</p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 React + Vite + Tailwind Starter</h3>
+      <p>Modern responsive frontend starter with reusable components and dark mode.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h3>🖼️ DRF + React Media Uploads</h3>
+      <p>File and image upload handling with previews, validation, and API integration.</p>
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+  </tr>
+</table>
 
 > 💡 **Tip:** Pin your strongest repositories on your GitHub profile so visitors can find your best work immediately.
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Trophies
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-id">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://instagram.com/your-id">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-      alt="Instagram"
-    />
-  </a>
-
-  <a href="https://t.me/your-id">
-    <img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge"
-      alt="Telegram"
-    />
-  </a>
-
-  <a href="https://discordapp.com/users/your-id">
-    <img
-      src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
-      alt="Discord"
-    />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hafeed10&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-You can add a contribution snake animation using **Platane/snk** and GitHub Actions.
-
-The generated SVG can be stored at:
-
-```text
-output/github-snake.svg
-```
-
-Then display it with:
-
-```html
 <p align="center">
   <img src="output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-```
+
+<!--
+  To generate the snake, add this workflow at .github/workflows/snake.yml:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+  permissions:
+    contents: write
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: Hafeed10
+            outputs: output/github-snake.svg
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 ---
 
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/your-id"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://t.me/your-id"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://discordapp.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
+</p>
+
 <p align="center">
   <i>⭐ If you like my work, consider starring one of my repositories!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer" />
 </p>
