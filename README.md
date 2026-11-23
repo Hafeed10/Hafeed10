@@ -1,169 +1,136 @@
-<!-- 3D DESIGN: 3D emoji + isometric 3D contribution graph + depth banner for Hafeed10 -->
+<!-- HUB DESIGN: dashboard-style profile, modeled on the "Hub" screenshot layout -->
 
-<!-- ============ 3D BANNER ============ -->
+<div align="center">
+
+# Welcome to Hafeed's Hub
+
+<sub>Explore my open source contributions and projects</sub>
+
+<a href="https://github.com/Hafeed10">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=22C55E&center=true&vCenter=true&width=520&height=30&lines=Full-Stack+Developer+%7C+Python+%2B+JavaScript;Django+%7C+React+%7C+PostgreSQL;Clean+Code.+Fast+APIs.+Modern+UI" alt="typing" />
+</a>
+
+</div>
+
+<br />
+
+<!-- ============ STAT CARDS ROW ============ -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hafeed10&query=$.public_repos&label=&color=0a0a0a&style=for-the-badge&logo=github&logoColor=22c55e" alt="Repos" /><br />
+      <sub>TOTAL REPOS</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hafeed10&query=$.followers&label=&color=0a0a0a&style=for-the-badge&logo=github&logoColor=22c55e" alt="Followers" /><br />
+      <sub>FOLLOWERS</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hafeed10&query=$.following&label=&color=0a0a0a&style=for-the-badge&logo=github&logoColor=22c55e" alt="Following" /><br />
+      <sub>FOLLOWING</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Hafeed10&query=$.public_gists&label=&color=0a0a0a&style=for-the-badge&logo=github&logoColor=22c55e" alt="Gists" /><br />
+      <sub>PUBLIC GISTS</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Muhammed%20Hafeed%20P&fontSize=54&color=gradient&customColorList=12,14,18,24&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Python%20%2B%20JavaScript&descSize=18&descAlignY=72" alt="3D Banner" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0a0a0a&text_color=d4d4d8&icon_color=22c55e&border_color=27272a" alt="Stars and commits" />
 </p>
 
+---
+
+## Contributions
+
 <p align="center">
-  <a href="https://github.com/Hafeed10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Django+%7C+React+%7C+PostgreSQL;Clean+Code.+Fast+APIs.+Modern+UI;Building+in+3D%2C+thinking+in+layers+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://ghchart.rshah.org/22c55e/Hafeed10" alt="Contribution heatmap" width="100%" />
+</p>
+
+<p align="right"><sub>Last 52 weeks of activity</sub></p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hafeed10&theme=dark&background=0A0A0A&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&border=27272A&stroke=27272A" alt="Streak" />
+</p>
+
+---
+
+## Core Technologies &nbsp;&nbsp;&nbsp;&nbsp; Language Breakdown
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0a0a0a)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Django](https://img.shields.io/badge/Django-0a0a0a?style=for-the-badge&logo=django&logoColor=22c55e)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=646CFF)
+![C](https://img.shields.io/badge/C-0a0a0a?style=for-the-badge&logo=c&logoColor=00599C)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Sass](https://img.shields.io/badge/Sass-0a0a0a?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
+
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=donut&langs_count=6&hide_title=true&bg_color=0a0a0a&text_color=d4d4d8&border_color=27272a" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Notable Projects
+
+<p align="center">
+  <a href="https://github.com/Hafeed10/django-rest-api-boilerplate">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hafeed10&repo=django-rest-api-boilerplate&bg_color=0a0a0a&title_color=22c55e&text_color=d4d4d8&icon_color=22c55e&border_color=27272a" alt="Django REST API Boilerplate" />
+  </a>
+  <a href="https://github.com/Hafeed10/react-vite-tailwind-starter">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hafeed10&repo=react-vite-tailwind-starter&bg_color=0a0a0a&title_color=22c55e&text_color=d4d4d8&icon_color=22c55e&border_color=27272a" alt="React Vite Tailwind Starter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Hafeed10/drf-react-media-uploads">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Hafeed10&repo=drf-react-media-uploads&bg_color=0a0a0a&title_color=22c55e&text_color=d4d4d8&icon_color=22c55e&border_color=27272a" alt="DRF React Media Uploads" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafeed10&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Views" />
-  <img src="https://img.shields.io/github/followers/Hafeed10?style=for-the-badge&logo=github&color=4c1d95" alt="Followers" />
-  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-f97316?style=for-the-badge" alt="India" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="32" /> About Me
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Telescope/3D/telescope_3d.png" width="70" /><br />
-      <b>Building</b><br />
-      <sub>Django + React apps, REST APIs, clean responsive UIs</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Seedling/3D/seedling_3d.png" width="70" /><br />
-      <b>Exploring</b><br />
-      <sub>Next.js, cloud deployments, CI/CD</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Puzzle%20piece/3D/puzzle_piece_3d.png" width="70" /><br />
-      <b>Interested in</b><br />
-      <sub>API design, authentication, DB optimization, performance</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/High%20voltage/3D/high_voltage_3d.png" width="70" /><br />
-      <b>Love</b><br />
-      <sub>Pixel-perfect interfaces with Tailwind CSS + Vite</sub>
-    </td>
-    <td align="center" width="180">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="70" /><br />
-      <b>Focus</b><br />
-      <sub>Clean, maintainable, scalable code</sub>
-    </td>
+    <td width="33%" valign="top"><b>Django REST API Boilerplate</b><br /><sub>JWT authentication, pagination, filtering, permissions, and production-ready API patterns.</sub></td>
+    <td width="33%" valign="top"><b>React + Vite + Tailwind Starter</b><br /><sub>Modern responsive frontend starter with reusable components and dark mode.</sub></td>
+    <td width="33%" valign="top"><b>DRF + React Media Uploads</b><br /><sub>File and image upload handling with previews, validation, and API integration.</sub></td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="32" /> Tech Stack
+## About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,py,c,cpp,bootstrap,django,git,github,gitlab,jquery,postgres,sass,sqlite,postman,tailwind,vercel,vite&perline=10" alt="Tech Stack" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="32" /> GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hafeed10&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafeed10&layout=compact&langs_count=8&theme=synthwave&hide_border=true" alt="Top Languages" />
-</p>
+- Building modern **Django + React** applications with REST APIs and clean, responsive UIs
+- Currently exploring **Next.js, cloud deployments, and CI/CD**
+- Interested in **API design, authentication, database optimization, and performance**
+- Love creating pixel-perfect interfaces with **Tailwind CSS + Vite**
+- Focused on writing **clean, maintainable, and scalable code**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sparkles/3D/sparkles_3d.png" width="32" /> 3D Contribution Graph
-
-<!-- Generated automatically by the GitHub Action below (see bottom of this file) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
-    <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
-  </picture>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/File%20folder/3D/file_folder_3d.png" width="32" /> Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Gear/3D/gear_3d.png" width="64" /><br />
-      <h3>Django REST API Boilerplate</h3>
-      <sub>JWT authentication, pagination, filtering, permissions, and production-ready API patterns.</sub><br /><br />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="64" /><br />
-      <h3>React + Vite + Tailwind Starter</h3>
-      <sub>A modern responsive frontend starter featuring reusable components and dark mode.</sub><br /><br />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Framed%20picture/3D/framed_picture_3d.png" width="64" /><br />
-      <h3>DRF + React Media Uploads</h3>
-      <sub>File and image upload handling with previews, validation, and API integration.</sub><br /><br />
-      <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-> **Tip:** Pin your strongest repositories on your GitHub profile so visitors can find your best work immediately.
-
----
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="32" /> Trophies
+## Connect
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hafeed10&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d_default.png" width="32" /> Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/your-id"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
-  <a href="https://t.me/your-id"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
-  <a href="https://discordapp.com/users/your-id"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/your-id"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/your-id"><img src="https://img.shields.io/badge/Instagram-0a0a0a?logo=instagram&logoColor=E4405F&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://t.me/your-id"><img src="https://img.shields.io/badge/Telegram-0a0a0a?logo=telegram&logoColor=2CA5E0&style=for-the-badge" alt="Telegram" /></a>
+  <a href="https://discordapp.com/users/your-id"><img src="https://img.shields.io/badge/Discord-0a0a0a?logo=discord&logoColor=5865F2&style=for-the-badge" alt="Discord" /></a>
 </p>
 
 <p align="center">
-  <i>⭐ If you like my work, consider starring one of my repositories!</i>
+  <sub>⭐ If you like my work, consider starring one of my repositories!</sub>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=110&section=footer" alt="Footer" />
-</p>
-
-<!--
-  ============================================================
-  GITHUB ACTION for the 3D contribution graph
-  Save as: .github/workflows/profile-3d.yml
-  ============================================================
-
-  name: GitHub-Profile-3D-Contrib
-  on:
-    schedule:
-      - cron: "0 18 * * *"
-    workflow_dispatch:
-  permissions:
-    contents: write
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      name: generate-github-profile-3d-contrib
-      steps:
-        - uses: actions/checkout@v4
-        - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            USERNAME: Hafeed10
-        - name: Commit & Push
-          run: |
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git add -A .
-            git commit -m "generated 3D contrib" || exit 0
-            git push
--->
